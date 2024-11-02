@@ -1,0 +1,945 @@
+SMILES,Lab,RT
+CCC(=O)n1cc2c3c(cccc31)C1=CC(C(=O)N(CC)CC)CN(C)C1C2,Aarhus,5.1382265
+CNC(C)C(=O)c1ccccc1Cl,Aarhus,3.0994506
+CNC(C)C(=O)c1ccccc1C,Aarhus,3.3192763
+CCCC(=O)N1CCN(CC=Cc2ccccc2)CC1C,Aarhus,5.3300495
+COc1cc(CCNCc2ccccc2OC)c(OC)cc1Br,Aarhus,5.778901
+CNC(C)C(=O)c1cccc(C)c1,Aarhus,3.3669772
+CC1NCCOC1c1cccc(F)c1,Aarhus,3.1203651
+CCC1NCCOC1c1cccc(F)c1,Aarhus,3.5483756
+CC(C)NC(C)C(=O)c1ccc(Cl)cc1,Aarhus,4.3662486
+Cc1ccc(C2OCCNC2C)cc1,Aarhus,3.3417554
+CCNC(C)C(=O)c1ccc(Cl)cc1,Aarhus,4.1320896
+CC(C)C(=O)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1,Aarhus,6.1240344
+COC(=O)C(NC(=O)c1cn(CCCCF)c2ccccc12)C(C)(C)C,Aarhus,7.12971
+COC(=O)C(c1ccc(F)cc1)C1CCCCN1,Aarhus,4.36066
+COc1ccc2occ(CCN(C(C)C)C(C)C)c2c1,Aarhus,5.354192
+CCOC(=O)C(NC(=O)c1nn(CCCCCF)c2ccccc12)C(C)C,Aarhus,7.5326676
+CCOC(=O)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(C)C,Aarhus,7.2731485
+O=C(Oc1cccc2cccnc12)c1cn(CCCCCF)c2ccccc12,Aarhus,7.518948
+O=C(Nc1cccc2ccccc12)c1cn(CCCCCF)c2ccncc12,Aarhus,6.511021
+CCCCCn1nc(C(=O)OC23CC4CC(CC(C4)C2)C3)c2ccccc21,Aarhus,9.07384
+CCCCCn1nc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21,Aarhus,8.800205
+COC(=O)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(C)C,Aarhus,7.462342
+CCC(=O)N1C(C)CN(CC=Cc2ccccc2)CC1C,Aarhus,5.9742656
+CCCCCn1cc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21,Aarhus,8.456894
+CCC(=O)N(c1ccccc1)C1CCN(CC(O)c2cccs2)CC1,Aarhus,4.6523185
+CCCCCn1nc(C(=O)NC(C)(C)c2ccccc2)c2ccccc21,Aarhus,8.032605
+CCN(CC)CCn1c(Cc2ccc(Cl)cc2)nc2cc([N+](=O)[O-])ccc21,Aarhus,5.6807914
+O=C(C1CC1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Aarhus,5.749316
+CCCc1cc(OC)c(CC(C)N)cc1OC,Aarhus,5.390668
+CCCCCn1c2ccccc2c2cc(C(=O)c3cccc4ccccc34)ccc21,Aarhus,9.309719
+CCOc1c(OC)cc(CCN)cc1OC,Aarhus,3.4424314
+CCOc1ccc(Cc2nc3cc([N+](=O)[O-])ccc3n2CCN2CCCC2)cc1,Aarhus,5.527882
+CCC(=O)N(c1ccccc1)C1CCN(CCc2ccco2)CC1,Aarhus,4.940638
+O=C(c1ccco1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Aarhus,5.357052
+CCOC(=O)C(c1ccc2ccccc2c1)C1CCCCN1,Aarhus,5.5868134
+COC(=O)C(c1ccc2ccccc2c1)C1CCCCN1,Aarhus,5.4142647
+CC(C)C(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Aarhus,5.6395993
+COC(=O)C(c1ccccc1)C1COCCN1,Aarhus,3.4434795
+CCN(CC)CCn1c(Cc2ccc(OC)cc2)nc2ccccc21,Aarhus,3.8334396
+CCCC(NCC)C(=O)c1ccccc1,Aarhus,4.1322575
+COc1ccn(C)c(=O)c1C#N,Aarhus,2.589262
+O=S(=O)(N=C1CCCCN1CCc1ccccc1)c1ccc(Cl)cc1,Aarhus,7.360328
+COCC(=O)N(c1ccccc1C)C1CCN(CCc2ccccc2)CC1,Aarhus,5.012169
+COCC(=O)N(c1ccc(OC)cc1)C1CCN(CCc2ccccc2)CC1,Aarhus,4.829325
+CC(NC(C)(C)C)C(=O)c1ccc2c(c1)OCO2,Aarhus,3.989511
+CCC(F)CCn1nc(C(=O)NC(C(=O)OC)C(C)C)c2ccccc21,Academy of Forensic Science,7.3162704
+CCCCCn1nc(C(=O)NC(C)(C)c2ccc(Cl)cc2)c2ccccc21,Academy of Forensic Science,13.24835
+CC(C)(NC(=O)c1cn(CCCCC#N)c2ncccc12)c1ccccc1,Academy of Forensic Science,6.172336
+COC(=O)C(NC(=O)c1nn(CCCC(C)F)c2ccccc12)C(C)(C)C,Academy of Forensic Science,7.721135
+CC(C)(NC(=O)c1nn(CCCCCF)c2ccccc12)c1ccc(F)cc1,Academy of Forensic Science,9.115261
+FCCCCCn1ccc2ccccc21,Academy of Forensic Science,7.838965
+CC(C)(C)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(=O)O,Academy of Forensic Science,6.854021
+COC(=O)C(NC(=O)c1cn(CCC(=O)O)c2ccccc12)C(C)(C)C,Academy of Forensic Science,4.445249
+COC(=O)C(NC(=O)c1cn(CCCCCF)c2cc(O)ccc12)C(C)(C)C,Academy of Forensic Science,5.566076
+O=C(Oc1cccc2ccccc12)c1nn(CCCCCF)c2ccccc12,Academy of Forensic Science,10.594528
+CCC(NC(=O)c1cn(CCCCCF)c2ccccc12)c1ccccc1,Academy of Forensic Science,8.675331
+CC(C)(C)C(NC(=O)c1cc(-c2ccc(F)cc2)nn1CCCCCF)C(N)=O,Academy of Forensic Science,7.4637494
+CC(C)(C)C(NC(=O)c1nn(CCCCCF)c2ccccc12)C(N)=O,Academy of Forensic Science,6.239935
+O=C(NC12CC3CC(CC(C3)C1)C2)c1nn(CCCCCF)c2ccccc12,Academy of Forensic Science,12.03939
+CC(C)(C)C(NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(=O)O,Academy of Forensic Science,7.445035
+CC(C)C(NC(=O)c1nn(CC2CCC(O)CC2)c2ccccc12)C(=O)O,Academy of Forensic Science,4.722746
+CC(C)C(NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(N)=O,Academy of Forensic Science,6.1026177
+CCCCCn1nc(C(=O)NC(C(N)=O)C(C)C)c2ccccc21,Academy of Forensic Science,8.403768
+CC(C)(C)C(NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(N)=O,Academy of Forensic Science,6.998511
+CCCCCn1nc(C(=O)NC(C(N)=O)C(C)(C)C)c2ccccc21,Academy of Forensic Science,8.886457
+CC(C)(C)C(NC(=O)c1nn(CCCCC(=O)O)c2ccccc12)C(N)=O,Academy of Forensic Science,4.292992
+O=C(c1ccccc1I)c1cn(CCCCCF)c2ccccc12,Academy of Forensic Science,8.309079
+O=C(O)CCCCn1cc(C(=O)c2ccccc2I)c2ccccc21,Academy of Forensic Science,5.475866
+COC(=O)C(NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(C)C,Academy of Forensic Science,7.5776134
+CCCCCn1nc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21,Academy of Forensic Science,13.606919
+NC(=O)C(Cc1ccccc1)NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12,Academy of Forensic Science,6.7659936
+CC1(C)C(C(=O)NN=C2C(=O)N(CCCCCF)c3ccccc32)C1(C)C,Academy of Forensic Science,8.9508295
+O=C(Oc1cccc2cccnc12)c1cn(CC2CCCCC2)c2ccccc12,Academy of Forensic Science,11.404698
+CCOC(=O)C(NC(=O)c1cn(CC2CCCCC2)c2ccccc12)C(C)(C)C,Academy of Forensic Science,12.4753
+O=C(c1ccc2c(c1)c1ccccc1n2CCCCCF)c1cccc2ccccc12,Academy of Forensic Science,13.037216
+O=C(c1ccc(F)c2ccccc12)c1cn(CCCCCF)c2ccccc12,Academy of Forensic Science,10.240793
+CC1(C)C(C(=O)c2nn(CCCCCF)c3ccccc23)C1(C)C,Academy of Forensic Science,11.108601
+O=C(c1cccc2ccccc12)c1nc2ccccc2n1CCCCCF,Academy of Forensic Science,9.171625
+CCCCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)C1CC=C(CO)CC21,Academy of Forensic Science,10.753005
+O=C(c1cccc2ccccc12)c1cn(CCCCCO)c2ccccc12,Academy of Forensic Science,7.424285
+CC(O)CCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Academy of Forensic Science,7.321162
+O=C(O)CCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Academy of Forensic Science,6.5668216
+CCCn1c(C)c(C(=O)c2cccc3ccccc23)c2ccccc21,Academy of Forensic Science,10.425864
+CCCCCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Academy of Forensic Science,12.819744
+CCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Academy of Forensic Science,10.122344
+CCCCCn1cc(C(=O)c2ccc(F)c3ccccc23)c2ccccc21,Academy of Forensic Science,12.523944
+CCCCn1nc(C(=O)NC(C(=O)OC)C(C)(C)C)c2ccccc21,Academy of Forensic Science,10.213044
+COC(=O)C(NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(C)(C)C,Academy of Forensic Science,8.715241
+CCCCCn1cc(C(=O)Nc2cccc3ccccc23)c2ccccc21,Academy of Forensic Science,10.71596
+CC(O)CCCn1cc(C(=O)Oc2cccc3cccnc23)c2ccccc21,Academy of Forensic Science,6.519845
+O=C(c1cccc2ccccc12)c1nn(CCCCCF)c2ccccc12,Academy of Forensic Science,10.886527
+COc1ccc(OC)c(CCNCc2ccccc2OC)c1,Adelaide,5.5744348
+COc1cc([N+](=O)[O-])c(OC)cc1CCNCc1ccccc1OC,Adelaide,5.8124514
+COc1cc(SC(C)C)c(OC)cc1CCNCc1ccccc1OC,Adelaide,7.6446753
+COc1cc(CCN)c(OC)c(C)c1C,Adelaide,5.1497726
+COc1cc(CCN)c(OC)cc1I,Adelaide,4.9373775
+CNC(C)C(=O)c1cccc(Cl)c1,Adelaide,3.4346352
+CC(C)(NC(=O)c1nn(CCCCC#N)c2ccccc12)c1ccccc1,Adelaide,9.371014
+CNC(C)C(=O)c1ccc(Cl)cc1,Adelaide,3.6572294
+CNC(C)Cc1ccc(F)cc1,Adelaide,3.1679707
+CCCCCC(C(=O)c1ccc(F)cc1)N1CCCC1,Adelaide,6.599694
+CCNC(C)Cc1ccc2occc2c1,Adelaide,4.05452
+O=C(NC12CC3CC(CC(C3)C1)C2)c1nn(CCCCCCl)c2ccccc12,Adelaide,11.324894
+COc1ccc2[nH]cc(CC(C)N)c2c1,Adelaide,2.9913106
+COC(=O)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(C)(C)C,Adelaide,9.513262
+CC(C)(C)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(=O)O,Adelaide,8.898215
+CCCCCn1nc(C(=O)NC(C(N)=O)C(C)C)c2ccccc21,Adelaide,8.960501
+CC(C)(C)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(N)=O,Adelaide,9.000169
+O=C(c1cccc2ccccc12)c1cn(CCCCCF)c2ccccc12,Adelaide,10.182725
+O=C(c1ccccc1I)c1cn(CCCCCF)c2ccccc12,Adelaide,9.577995
+CCCCCn1cc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21,Adelaide,11.326094
+O=C(Oc1cccc2cccnc12)c1cn(CC2CCCCC2)c2ccccc12,Adelaide,10.590195
+CC(CN)c1ccccc1,Adelaide,2.8378773
+CC(N)Cc1c2ccoc2c(Br)c2ccoc12,Adelaide,6.3119507
+O=C(C1CCCC1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Adelaide,6.994502
+COc1cc(CC(C)N)c(OC)cc1C,Adelaide,4.956945
+CCN(CC)CCc1c[nH]c2ccccc12,Adelaide,3.597653
+c1ccc(CC(c2ccccc2)N2CCCCC2)cc1,Adelaide,6.079707
+O=C1CN=C(c2ccccc2F)c2cc(Br)ccc2N1,Adelaide,7.7699585
+O=C(c1ccco1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Adelaide,5.9906154
+CCCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Adelaide,10.527388
+CCCCCn1cc(C(=O)Cc2ccccc2Cl)c2ccccc21,Adelaide,10.779343
+COC(=O)C(NC(=O)c1cn(CC2CCCCC2)c2ccccc12)C(C)(C)C,Adelaide,10.516929
+c1ccc(CC(c2ccccc2)N2CCN(C3CCCCC3)CC2)cc1,Adelaide,7.3599734
+CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1C,Adelaide,6.207321
+CCC(C)CC(C)N,Adelaide,3.159834
+CC(C(O)c1ccccc1)N(C)C,Adelaide,2.5988998
+CN1C(=O)CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc21,Adelaide,7.7581105
+COCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,Adelaide,5.074099
+CNC(C)Cc1ccc(OC)cc1,Adelaide,3.3685055
+Cc1nnc2n1-c1ccc(Br)cc1C(c1ccccn1)=NC2,Adelaide,5.499772
+CCCCCn1nc(C(=O)Oc2cccc3ccccc23)c2ccccc21,Adelaide,11.066126
+O=C(NC12CC3CC(CC(C3)C1)C2)c1cn(CCCCCF)c2ccccc12,Adelaide,10.666049
+CN(C)C1CCCCC1N(C)C(=O)c1ccc(Cl)c(Cl)c1,Adelaide,5.979084
+CCCC(NCC)C(=O)c1ccccc1,Adelaide,4.2540684
+CC(C)CC(C)N,Australian Racing Forensic Laboratory,4.640404
+CC(C)C(=O)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1,Australian Racing Forensic Laboratory,7.215414
+CC(C)C(=O)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1,Australian Racing Forensic Laboratory,6.715818
+CNC(C)Cc1ccc(O)cc1,Australian Racing Forensic Laboratory,3.3174286
+CCCC(=O)N(c1ccc(OC)cc1)C1CCN(CCc2ccccc2)CC1,Australian Racing Forensic Laboratory,6.9677634
+O=C(NCC1(N2CCCCC2)CCCCC1)c1ccc(Cl)c(Cl)c1,Australian Racing Forensic Laboratory,7.399887
+CN1C2CCC1C(C(=O)O)C(OC(=O)c1ccccc1)C2,Australian Racing Forensic Laboratory,4.6234603
+COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C,Australian Racing Forensic Laboratory,5.3472953
+CC=CC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Australian Racing Forensic Laboratory,6.748145
+CN1CCC23c4c5ccc(O)c4OC2CCCC3C1C5,Australian Racing Forensic Laboratory,3.9755688
+Fc1ccc(NC2CCN(CCc3ccccc3)CC2)cc1,Australian Racing Forensic Laboratory,6.288422
+COc1ccc2c3c1OC1C(O)CCC4C(C2)N(C)CCC341,Australian Racing Forensic Laboratory,3.9466865
+CCN(CC)CCn1c(Cc2ccc(OC(C)C)cc2)nc2cc([N+](=O)[O-])ccc21,Australian Racing Forensic Laboratory,6.9458947
+CN1CCC23CCCCC2C1Cc1ccc(O)cc13,Australian Racing Forensic Laboratory,5.1782975
+C=C(C)C(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Australian Racing Forensic Laboratory,6.600099
+CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5,Australian Racing Forensic Laboratory,2.6640844
+COc1ccc(CC(C)N)cc1,Australian Racing Forensic Laboratory,4.4125133
+CC(C)=CC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Australian Racing Forensic Laboratory,6.9068604
+O=C(C1CCCO1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Australian Racing Forensic Laboratory,6.0838213
+CN(C)C1CCCCC1N(C)C(=O)c1ccc(Cl)cc1,Australian Racing Forensic Laboratory,5.71123
+CN(C(=O)Cc1ccc(Cl)c(Cl)c1)C1CCCCC1N1CCCC1,Australian Racing Forensic Laboratory,6.820524
+CN(C(=O)Cc1ccc(Cl)c(Cl)c1)C1CCC2(CCCO2)CC1N1CCCC1,Australian Racing Forensic Laboratory,6.87244
+CN(C)C1CCCCC1N(C)C(=O)c1ccc2ccccc2c1,CFSRE,6.2596
+COc1cc(CCNCc2ccccc2OC)c(OC)cc1Cl,CFSRE,6.6619697
+CCc1cc(OC)c(CCNCc2ccccc2O)cc1OC,CFSRE,6.682489
+COc1ccc(OC)c(CCNCc2ccccc2OC)c1,CFSRE,6.168686
+COc1cc([N+](=O)[O-])c(OC)cc1CCNCc1ccccc1OC,CFSRE,6.37045
+COc1cc([N+](=O)[O-])c(OC)cc1CCN,CFSRE,4.028025
+O=C(Oc1ccc2ccccc2c1)c1nn(-c2ccccc2F)c2ccccc12,CFSRE,10.045808
+CCNC1(c2cccc(O)c2)CCCCC1,CFSRE,4.8920436
+CCNC1(c2cccc(OC)c2)CCCCC1,CFSRE,6.061211
+CCCC(C(=O)c1ccc(Cl)cc1)N1CCCC1,CFSRE,5.898117
+CCNC(C)C(=O)c1ccc(C)cc1,CFSRE,4.7316065
+CC(C)(NC(=O)c1cn(CCCCC#N)c2ncccc12)c1ccccc1,CFSRE,8.301563
+CC(C)(NC(=O)c1nn(CCCCC#N)c2ccccc12)c1ccccc1,CFSRE,9.013362
+CC(C)(NC(=O)c1nn(CCCCCF)c2ccccc12)c1ccc(F)cc1,CFSRE,9.718113
+COC(=O)C(NC(=O)c1nn(CCCCF)c2ccccc12)C(C)(C)C,CFSRE,9.230935
+O=C(c1cccnc1)c1cn(CCCCCF)c2ccccc12,CFSRE,7.8616004
+O=C(Oc1cccc2cccnc12)c1cn(CCCCCF)c2ncccc12,CFSRE,8.914024
+COC(=O)C(NC(=O)c1nn(CCCCCF)c2ccccc12)C(C)C,CFSRE,9.2498865
+O=C(Oc1cccc2ccccc12)c1nn(CCCCCF)c2ccccc12,CFSRE,9.804957
+CC1(C)C(C(=O)c2cn(CCN3CCOCC3)c3ccccc23)C1(C)C,CFSRE,7.8811507
+CC1(C)C(C(=O)c2cn(CC3CCOCC3)c3ccccc23)C1(C)C,CFSRE,9.277905
+CN1CCCCC1Cn1cc(C(=O)C2C(C)(C)C2(C)C)c2ccccc21,CFSRE,7.431854
+CC(C)C(NC(=O)c1nn(CC2CCCCC2)c2ccccc12)C(N)=O,CFSRE,8.935544
+CC(C)C(NC(=O)c1c2ccccc2nn1CC1CCCCC1)C(N)=O,CFSRE,8.312136
+CCCCCn1nc(C(=O)NC(C(N)=O)C(C)C)c2ccccc21,CFSRE,8.630221
+CC(C)(C)C(NC(=O)c1cn(Cc2ccccc2)c2ccccc12)C(N)=O,CFSRE,8.254975
+CC(C)(C)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(N)=O,CFSRE,8.80975
+CC(C)(C)C(NC(=O)c1n[nH]c2ccccc12)C(N)=O,CFSRE,6.9059873
+CN(C)C1(CNC(=O)c2ccc(Cl)c(Cl)c2)CCCCC1,CFSRE,6.554684
+CCCCCn1nc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21,CFSRE,11.081751
+O=C(c1cccc2ccccc12)c1nc2ccccc2n1CCCCCF,CFSRE,9.626268
+CCCCCn1nc(C(=O)NC(C(=O)OC)C(C)C)c2ccccc21,CFSRE,9.670736
+CCCC(=O)N1CCN(CC=Cc2ccccc2)CC1,CFSRE,6.714237
+CCC(=O)N1C(C)CN(CC=Cc2ccccc2)CC1C,CFSRE,6.9828973
+NC(=O)C(Cc1ccccc1)NC(=O)c1nn(CC2CCCCC2)c2ccccc12,CFSRE,8.978811
+CCC(=O)N(c1ccccc1)C1(COC)CCN(CCn2nnn(CC)c2=O)CC1,CFSRE,6.571323
+CCCCC(C(=O)c1ccccc1)N1CCCC1,CFSRE,5.6859713
+CCCC(C(=O)c1cccs1)N1CCCC1,CFSRE,4.613069
+CCCCCN1C(=O)C(=NNC(=O)c2ccccc2)c2ccccc21,CFSRE,10.15978
+O=C(c1ccc2c(c1)OCO2)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CFSRE,6.8443146
+CN1C2CCC1C(C(=O)O)C(OC(=O)c1ccccc1)C2,CFSRE,4.26805
+O=C(c1ccco1)N(c1ccccc1)C1CCN(Cc2ccccc2)CC1,CFSRE,6.2361436
+CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1,CFSRE,5.4439206
+Oc1ccc2c(c1)C13CCCCC1(O)C(C2)N(CC1CCC1)CC3,CFSRE,5.457188
+CCC(NC)C(=O)c1ccc2c(c1)OCO2,CFSRE,4.4778485
+CCCCCCc1ccc(O)cc1OCCCCCCCCCCC(=O)NC1CC1,CFSRE,10.12695
+CCCCCn1c2ccccc2c2c(=O)n(C(C)(C)c3ccccc3)ccc21,CFSRE,10.044126
+CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C(=O)O)=CC21,CFSRE,9.346724
+CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,CFSRE,7.6880155
+O=C(C1CCC1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CFSRE,6.9532523
+c1ccc(CN2CCN(Cc3ccccc3)CC2)cc1,CFSRE,5.091428
+CCc1cc2c(s1)-n1c(C)nnc1CN=C2c1ccccc1,CFSRE,7.187653
+NC1(c2ccccc2)CCCCC1=O,CFSRE,4.20306
+CC1CN(CCc2ccccc2)CCC1Nc1ccccc1,CFSRE,6.261228
+Cc1ccccc1NC1CCN(CCc2ccccc2)CC1,CFSRE,6.3788095
+COc1ccc2c(c1)C13CCCCC1C(C2)N(C)CC3,CFSRE,6.280086
+CC(=O)Oc1ccc2c3c1OC1C(OC(C)=O)C=CC4C(C2)N(C)CCC341,CFSRE,4.902419
+COc1ccc2c3c1OC1C(O)CCC4C(C2)N(C)CCC341,CFSRE,3.6489222
+CC(C(=O)c1ccc2c(c1)OCO2)N(C)C,CFSRE,3.7212474
+CCNC(C)C(=O)c1ccc2c(c1)OCO2,CFSRE,4.0910335
+CCOC(=O)C(c1ccccc1)C1CCCCN1,CFSRE,5.365961
+O=C(Oc1cccc2cccnc12)c1cn(Cc2ccc(F)cc2)c2ccccc12,CFSRE,9.619673
+O=C(O)CCCCn1c(C(=O)c2cccc3ccccc23)nc2ccccc21,CFSRE,8.68047
+Cc1nnc2n1-c1ccc(Br)cc1C(c1ccccc1F)=NC2,CFSRE,7.0936003
+CCc1cc2c(s1)-n1c(C)nnc1CN=C2c1ccccc1F,CFSRE,7.233913
+CCCCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)C1CC=C(CO)CC21,CFSRE,10.380179
+CCCCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)C1CC=C(CO)CC21,CFSRE,10.380179
+CCCCCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CFSRE,7.43293
+CCCCC(NC)C(=O)c1ccccc1,CFSRE,5.711525
+OCc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,CFSRE,7.0897946
+CCCCCn1nc(C(=O)OCC(C)C)c2ccccc21,CFSRE,9.653647
+CC(C)OC(=O)C(c1ccccc1)C1CCCCN1,CFSRE,5.9113636
+CCCCCn1cc(C(=O)c2cccc3ccccc23)c2ccc(OC)cc21,CFSRE,10.311872
+CCCCCn1cc(C(O)=Nc2cccc3cccnc23)c2ccccc21,CFSRE,9.775383
+CCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,CFSRE,9.640373
+CCCCCn1c(CC)c(C(=O)c2cccc3ccccc23)c2ccccc21,CFSRE,11.234786
+CCCCCCn1cc(C(=O)c2cccc3ccccc23)cc1-c1ccccc1,CFSRE,11.378581
+CCCCCn1cc(C(=O)c2ccc(CCC)c3ccccc23)c2ccccc21,CFSRE,11.370042
+COc1ccc(C(=O)c2cn(CCN3CCOCC3)c3ccccc23)c2ccccc12,CFSRE,7.643033
+O=C(c1cccc2ccccc12)c1cn(CCN2CCOCC2)c2ccccc12,CFSRE,7.717164
+CC(=CC(=O)c1cn(CCN2CCOCC2)c2ccccc12)C(C)(C)C,CFSRE,7.885129
+CCCCCn1cc(C(=O)Cc2ccccc2OC)c2ccccc21,CFSRE,9.943906
+CCCCCn1cc(C(=O)c2cccc3ccccc23)cc1-c1cccc2ccccc12,CFSRE,12.0702095
+CCCCCn1cc(C(=O)c2cccc3ccccc23)cc1-c1ccccc1Cl,CFSRE,11.423932
+CCCCCn1cc(C(=O)c2cccc3ccccc23)cc1-c1ccccc1C,CFSRE,11.326962
+CC(Cc1ccccc1)NC(=O)C(N)CCCCN,CFSRE,4.0878234
+O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O,CFSRE,7.261966
+CCC(Cc1ccc2c(c1)OCO2)NC,CFSRE,4.783392
+NC1Cc2cc3c(cc2C1)OCO3,CFSRE,3.2046924
+CNC(C)Cc1ccc2c(c1)OCO2,CFSRE,4.0417857
+COC(=O)C(NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(C)(C)C,CFSRE,9.31314
+CC(C)(C)C(NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(=O)O,CFSRE,8.947606
+CC(C)(C)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(=O)O,CFSRE,9.180249
+CCC(C(=O)c1ccc2c(c1)OCO2)N1CCCC1,CFSRE,5.027563
+CCCCCn1cc(C(=O)NC(C(=O)OC)C(C)C)c2ccccc21,CFSRE,9.372127
+C=CCCCn1cc(C(=O)NC(C(=O)OC)C(C)C)c2ccccc21,CFSRE,9.175389
+COc1cccc2c(C(=O)NC3C4(C)CCC(C4)C3(C)C)c(C)n(CCN3CCOCC3)c12,CFSRE,9.300785
+COc1ccc(C(=O)C(C)N2CCCC2)cc1,CFSRE,4.4690228
+CNC(C)C(=O)c1ccccc1,CFSRE,3.5134096
+CCCNC1(c2cccc(OC)c2)CCCCC1=O,CFSRE,5.563083
+COCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CFSRE,5.589243
+CCCCCC(C(=O)c1ccc2c(c1)OCO2)N1CCCC1,CFSRE,6.142672
+CNC(C)C(=O)c1ccc2c(c1)OCO2,CFSRE,3.684994
+Cc1ncc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2,CFSRE,6.47209
+CNC1CCCCC1N(C)C(=O)c1ccc(Cl)c(Cl)c1,CFSRE,5.9861155
+CCCC(NCC)C(=O)c1ccc2c(c1)OCO2,CFSRE,5.265502
+CCCCC(NC)C(=O)c1ccc2c(c1)OCO2,CFSRE,5.754366
+CCCNC(CC)C(=O)c1ccc2c(c1)OCO2,CFSRE,5.4283943
+CCCCNC(CCCC)C(=O)c1ccccc1,CFSRE,6.6656485
+CN1CCC(N(C(=O)C2CC2)c2ccccc2)CC1,CFSRE,4.899436
+CCC(=O)N(c1ccccc1)C1CCN(C)CC1,CFSRE,4.6036754
+O=C1CCC2(O)C3Cc4ccc(O)c5c4C2(CCN3CC2CC2)C1O5,CFSRE,4.1247272
+CCC(=O)N(c1ccccc1)C1CCNCC1,CFSRE,4.6927633
+COCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,CFSRE,5.766942
+CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,CFSRE,3.1376348
+CCCCCn1cc(-c2nc(CN(CCOC)C(C)C)cs2)c2ccccc21,CFSRE,7.6284804
+CC(C)=CCN1CCC2(C)c3cc(O)ccc3CC1C2C,CFSRE,5.35719
+CCCC(NC)C(=O)c1ccccc1,CFSRE,4.8065667
+O=C(c1ccccc1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CFSRE,6.7591476
+CN(C)CCc1c[nH]c2cccc(OP(=O)(O)O)c12,CFSRE,2.5892382
+COc1ccc(CN(CCN(C)C)c2ccccn2)cc1,CFSRE,5.0777183
+CCCCn1cc(C(=O)c2ccc(OC)cc2)c2ccccc21,CFSRE,9.563785
+CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(CCC(=O)O)CC1,CFSRE,4.7213626
+COC(=O)C1CC(O)C(=O)C2C1(C)CCC1C(=O)OC(c3ccoc3)CC12C,CFSRE,7.114465
+CN1C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12,CFSRE,3.6293416
+O=C(c1cccc2ccccc12)c1nn(CCCCCF)c2ccccc12,CFSRE,9.985416
+O=C(C1CCCS1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CFSRE,7.11421
+Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,CFSRE,7.543134
+CN(C)C1CCCCC1NC(=O)c1ccc(Br)cc1,CFSRE,5.823588
+CN(C)C1CCCCC1N(C)C(=O)Cc1ccc(Cl)cc1Cl,CFSRE,6.432517
+CCN(CC)C1CCCCC1N(C)C(=O)c1ccc(Cl)c(Cl)c1,CFSRE,6.4553137
+CN(C)C1CCCCC1N(C)C(=O)Cc1ccc(Cl)c(Cl)c1,CFSRE,6.4936953
+CN(C(=O)Cc1ccc(Cl)c(Cl)c1)C1CCC2(CCCO2)CC1N1CCCC1,CFSRE,6.762427
+Cc1c(C(=O)c2ccccc2)c(N)c(-c2ccccc2)n1Cc1ccc(Cl)cc1,CFSRE,7.9748096
+CCCCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CFSRE,7.1344786
+CCC(=O)N(c1ccccc1)C1CCN(CC(C)c2ccccc2)CC1,CFSRE,6.642127
+CC(=O)N(c1ccccc1C)C1CCN(CCc2ccccc2)CC1,CFSRE,6.4381647
+C=CC(=O)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1,CFSRE,6.8198524
+O=C(C1CCCC1)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1,CFSRE,7.725572
+CC(=O)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1,CFSRE,5.885678
+O=C(C1CC1)N(c1ccc(F)cc1)C1CCN(Cc2ccccc2)CC1,CFSRE,6.585519
+C=CC(=O)N(c1ccc(OC)cc1)C1CCN(CCc2ccccc2)CC1,CFSRE,6.4118156
+Cc1ccc(N(C(=O)C2CCCO2)C2CCN(CCc3ccccc3)CC2)cc1,CFSRE,6.347914
+CC(=O)N(c1ccc(C)cc1)C1CCN(CCc2ccccc2)CC1,CFSRE,6.2795687
+CCC(=O)n1cc2c3c(cccc31)C1=CC(C(=O)N(CC)CC)CN(C)C1C2,ChemCentre,6.389232
+CNC1(c2ccccc2F)CCCCC1=O,ChemCentre,4.1204276
+CCc1cc(OC)c(CCNCc2ccccc2OC)cc1OC,ChemCentre,7.666362
+COc1cc(CCNCc2ccccc2F)c(OC)cc1I,ChemCentre,7.709548
+NCCc1c2c(c(Br)c3c1OCC3)OCC2,ChemCentre,5.205177
+COc1cc(CCN)c(OC)c2c1CCCC2,ChemCentre,6.1620812
+COc1cc(SC)c(OC)cc1CCN,ChemCentre,5.197137
+CCSc1cc(OC)c(CCN)cc1OC,ChemCentre,5.5915093
+Cc1nnc2n1-c1ccccc1C(c1ccc(Cl)cc1)=NC2,ChemCentre,7.9115353
+CC(C)(NC(=O)c1nn(CCCCC#N)c2ccccc12)c1ccccc1,ChemCentre,9.73393
+COC(=O)C(NC(=O)c1nn(CCCCF)c2ccccc12)C(C)(C)C,ChemCentre,9.890496
+COC(=O)C(NC(=O)c1nn(CCCC(C)F)c2ccccc12)C(C)(C)C,ChemCentre,9.755591
+CC(N)Cc1ccc2occc2c1,ChemCentre,4.408874
+CCNC(C)Cc1ccc2occc2c1,ChemCentre,4.88403
+COC(=O)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(C)(C)C,ChemCentre,9.885926
+CC(C)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(N)=O,ChemCentre,8.491657
+CC(N)Cc1ccc2ccoc2c1,ChemCentre,4.4201255
+CC(N)Cc1ccc2c(c1)OCC2,ChemCentre,3.8349133
+CC(C)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(N)=O,ChemCentre,8.989854
+CN(C)C1(CNC(=O)c2ccc(Cl)c(Cl)c2)CCCCC1,ChemCentre,6.695151
+CCCCCn1nc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21,ChemCentre,11.991235
+O=C(Oc1cccc2cccnc12)c1cn(CC2CCCCC2)c2ccccc12,ChemCentre,10.89452
+O=C1CN=C(c2ccccc2Cl)c2cc(Cl)ccc2N1,ChemCentre,8.319143
+CCNC(CC)C(=O)c1ccc2c(c1)OCO2,ChemCentre,4.369773
+COC(=O)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(C)C,ChemCentre,10.027645
+CC(C)(C)C(NC(=O)c1nn(CC2CCCCC2)c2ccccc12)C(N)=O,ChemCentre,10.043537
+Cc1ccc(C(=O)c2cn(CCCCCF)c3ccccc23)c2ccccc12,ChemCentre,10.815492
+COC(=O)C(NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(C)C,ChemCentre,9.76416
+CNC(C)C(=O)c1ccc2c(c1)OCO2,ChemCentre,3.404739
+CCCC(NCC)C(=O)c1ccc2c(c1)OCO2,ChemCentre,5.1026225
+O=C(Oc1cccc2ccccc12)c1cn(CCCCCF)c2ccccc12,ChemCentre,10.936572
+NC(=O)C(Cc1ccccc1)NC(=O)c1cn(CCCCCF)c2ccccc12,ChemCentre,8.615759
+O=[N+]([O-])c1ccc(CCN2CCCCC2=NS(=O)(=O)c2ccc(Cl)cc2)cc1,ChemCentre,9.107639
+CCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,ChemCentre,6.6103144
+CCN(CC)C(=O)C1C=C2c3cccc4c3c(cn4C(=O)C3CC3)CC2N(C)C1,Copenhagen,7.778311
+COc1ccccc1C(Cc1ccccc1)N1CCCCC1,Copenhagen,7.154135
+COc1cc(CCNCc2ccccc2OC)c(OC)cc1Cl,Copenhagen,7.3342443
+COc1cc(CCNCc2ccccc2OC)c(O)cc1I,Copenhagen,6.4946647
+COc1cc(CCN)c(OC)cc1Cl,Copenhagen,4.5271254
+COc1cc(CCN)c(OC)cc1C,Copenhagen,4.6739507
+COc1cc(CCN)c(OC)cc1I,Copenhagen,5.180353
+COC(=O)C(c1ccc(Cl)c(Cl)c1)C1CCCCN1,Copenhagen,7.648184
+CCNC(C)Cc1cccc(F)c1,Copenhagen,3.5327773
+CC1NCCOC1c1cccc(F)c1,Copenhagen,2.943233
+CCNC1(c2cccc(O)c2)CCCCC1,Copenhagen,3.9780684
+Cc1cccc(CC(C)N)c1,Copenhagen,3.779611
+Cc1cccc(C2OCCNC2C)c1,Copenhagen,3.8111815
+CN1C(=O)CC(=O)N(c2ccc(O)cc2)c2cc(Cl)ccc21,Copenhagen,8.123462
+CCN(C)CCc1c[nH]c2cccc(OC(C)=O)c12,Copenhagen,3.5436912
+CC(N)Cc1ccc(Cl)cc1,Copenhagen,4.2016397
+CCCN(CC)CCc1c[nH]c2cccc(O)c12,Copenhagen,3.390244
+CCN(C)CCc1c[nH]c2cccc(O)c12,Copenhagen,2.5319653
+Cc1ccc(C2OCCNC2C)cc1,Copenhagen,3.2573466
+CCCC(C(=O)c1ccc(OC)cc1)N1CCCC1,Copenhagen,5.321924
+CCCC(=O)N(c1ccc(OC)cc1)C1CCN(CCc2ccccc2)CC1,Copenhagen,7.2240877
+CC(C)C(=O)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1,Copenhagen,8.139461
+CC(N)Cc1ccc2occc2c1,Copenhagen,3.6462307
+CCCC(C(=O)c1ccc2c(c1)CCO2)N1CCCC1,Copenhagen,5.1761107
+COc1ccc2[nH]cc(CCN(C)C(C)C)c2c1,Copenhagen,3.7699132
+O=C(O)c1nn(CCCCCF)c2ccccc12,Copenhagen,7.607198
+COC(=O)C(NC(=O)c1nn(CCCCCF)c2ccccc12)C(C)(C)C,Copenhagen,11.322611
+O=C(NN=C1C(=O)N(CCCCCF)c2ccccc21)c1ccccc1,Copenhagen,10.772794
+CCN(CC)C(=O)C1C=C2c3cccc4c3c(cn4C(C)=O)CC2N(C)C1,Copenhagen,6.430146
+COC(=O)C(NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(C)C,Copenhagen,10.692921
+NC(=O)C(Cc1ccccc1)NC(=O)c1nn(CC2CCCCC2)c2ccccc12,Copenhagen,10.875841
+COc1cc(CC(C)N)c(OC)cc1Br,Copenhagen,5.0968447
+CC(c1ccc(Br)cc1)N1CCC(n2c(=O)[nH]c3ccccc32)CC1,Copenhagen,6.488151
+CCC(NC)C(=O)c1ccccc1,Copenhagen,3.1932883
+CCC(NC)C(=O)c1ccc2c(c1)OCO2,Copenhagen,3.3805642
+CCCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Copenhagen,7.0596194
+CNC1=Nc2ccc(Cl)cc2C(c2ccccc2)=[N+]([O-])C1,Copenhagen,7.502604
+COc1cc(C(C)C)c(OC)cc1CC(C)N,Copenhagen,7.715538
+CCCCCn1c2ccccc2c2cc(C(=O)c3cccc4ccccc34)ccc21,Copenhagen,13.831326
+CCOC(=O)C(c1ccccc1)C1CCCCN1,Copenhagen,4.770958
+O=C(c1cccc2ccccc12)c1nc2ccccc2n1CCCCCF,Copenhagen,11.7052355
+CCNC1=NC(=O)C(c2ccccc2)O1,Copenhagen,4.695253
+Cc1nnc2n1-c1ccc([N+](=O)[O-])cc1C(c1ccccc1F)=NC2,Copenhagen,7.2204986
+CN(C)CCc1ccc(O)cc1,Copenhagen,1.8141766
+CCCCCn1cc(C(=O)c2cccc3ccccc23)cc1-c1ccccc1F,Copenhagen,13.203024
+C=CCCCn1nc(C(=O)NC(C(=O)OC)C(C)(C)C)c2ccccc21,Copenhagen,11.816191
+CC(C)(C)C(NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(=O)O,Copenhagen,10.6674795
+CNC(C)Cc1ccc(C)s1,Copenhagen,3.4105506
+COc1cc(CCN)cc(OC)c1OC,Copenhagen,2.933217
+COC(=O)C(c1ccccc1)C1COCCN1,Copenhagen,3.4801097
+CCc1cc2c(s1)-n1cnnc1CN=C2c1ccccc1Cl,Copenhagen,8.121124
+CCN(CC)CCn1c(Cc2ccc(OC)cc2)nc2ccccc21,Copenhagen,4.4109406
+NC(=O)CS(=O)C(c1ccccc1)c1ccccc1,Copenhagen,8.024665
+CCCCNC(CCC)C(=O)c1ccc2c(c1)OCO2,Copenhagen,6.2008834
+CCNC1(c2ccccc2Cl)CCCCC1=O,Copenhagen,5.148578
+CCCC(NCC)C(=O)c1ccc2c(c1)OCO2,Copenhagen,4.5569797
+CNC1Cc2ccccc2C1,Copenhagen,2.5166783
+CCN(CC)CC(C)(C)COC(=O)c1ccc([N+](=O)[O-])cc1,Copenhagen,6.016289
+O=C1Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O,Copenhagen,8.218067
+CC1COC(c2ccccc2)C(C)N1,Copenhagen,2.9922018
+CC(C)CCC(=O)CC1c2ccccc2C(=O)N1c1ccc2ccc(Cl)nc2n1,Copenhagen,11.038603
+CCCC(NC)C(=O)c1ccc2c(c1)OCO2,Copenhagen,4.182619
+O=C1CN=C(c2ccccc2Cl)c2cc(Br)ccc2N1,Copenhagen,9.21144
+CC(C)(N)Cc1ccccc1,Copenhagen,3.4651785
+CCCOc1ccc(Cc2nc3cc([N+](=O)[O-])ccc3n2CCN(CC)CC)cc1,Copenhagen,8.4736595
+CN(C)CCc1c[nH]c2cccc(O)c12,Copenhagen,2.1961942
+O=C(NC12CC3CC(CC(C3)C1)C2)c1cn(CCCCCF)c2ccccc12,Copenhagen,12.407323
+CCCC(C(=O)c1ccc2c(c1)CCCC2)N1CCCC1,Copenhagen,8.167719
+CN(C)C1CCCCC1N(C)C(=O)c1ccc(Cl)c(Cl)c1,Copenhagen,6.7442513
+CCCCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Copenhagen,7.6229105
+CC1(C)C(C(=O)c2cn(CCCC(O)CF)c3ccccc23)C1(C)C,Copenhagen,10.863155
+Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1,Copenhagen,5.8574815
+CCCC(C(=O)c1ccccc1)N1CCCC1,Copenhagen,4.699299
+CCCC(=O)n1cc2c3c(cccc31)C1=CC(C(=O)N(CC)CC)CN(C)C1C2,Estonian Forensic Science Institute,5.643478
+CCN(CC)C(=O)C1C=C2c3cccc4c3C(O)(CC2N(C)C1)C(=O)N4,Estonian Forensic Science Institute,2.8945503
+CCCCCCC(C(=O)c1ccc(F)cc1)N1CCCC1,Estonian Forensic Science Institute,6.026966
+O=C(NC12CC3CC(CC(C3)C1)C2)c1nn(CCCC(O)CF)c2ccccc12,Estonian Forensic Science Institute,8.064628
+CC(C)(c1ccccc1)n1ccc2c(c1=O)c1ccccc1n2CCCCCF,Estonian Forensic Science Institute,8.272409
+CCOC(=O)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(C)(C)C,Estonian Forensic Science Institute,8.098386
+O=C(O)CCCCn1nc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21,Estonian Forensic Science Institute,8.33169
+CCNC(Cc1ccccc1)c1ccccc1,Estonian Forensic Science Institute,5.1579237
+O=C(c1cccc2ccccc12)c1cn(CCCCCO)c2ccccc12,Estonian Forensic Science Institute,7.7435923
+O=C(c1cccc2ccccc12)c1cn(CCCCO)c2ccccc12,Estonian Forensic Science Institute,7.574554
+CCN(CC)CCn1c(Cc2ccc(OC)cc2)nc2ccccc21,Estonian Forensic Science Institute,3.9400046
+CCNCC(=O)Nc1c(C)cccc1C,Estonian Forensic Science Institute,3.118373
+CCNCCn1c(Cc2ccc(O)cc2)nc2cc([N+](=O)[O-])ccc21,Estonian Forensic Science Institute,4.006705
+CCCC(NCC)C(=O)c1ccc2c(c1)OCO2,Estonian Forensic Science Institute,4.3814955
+O=C(NC12CC3CC(CC(C3)C1)C2)c1cn(CCCCCF)c2ccccc12,Estonian Forensic Science Institute,8.741067
+O=C(c1cccc2ccccc12)c1nn(CCCCCF)c2ccccc12,Estonian Forensic Science Institute,8.634036
+CC1N=C(N)OC1c1ccc(F)cc1,Estonian Forensic Science Institute,3.2856207
+O=C(c1ccoc1)N(c1ccc(F)cc1)C1CCNCC1,Estonian Forensic Science Institute,4.582303
+CCC(=O)n1cc2c3c(cccc31)C1=CC(C(=O)N(CC)CC)CN(C)C1C2,Finnish Customs Laboratory,5.826399
+CNC(C)C(=O)c1ccccc1F,Finnish Customs Laboratory,3.204257
+COC(=O)C(c1ccc(Cl)c(Cl)c1)C1CCCCN1,Finnish Customs Laboratory,6.3229785
+CNC(C)Cc1cccc(F)c1,Finnish Customs Laboratory,3.818763
+CC1NCCOC1c1cccc(F)c1,Finnish Customs Laboratory,3.6364899
+CCCC(NC)C(=O)c1ccc(F)cc1,Finnish Customs Laboratory,4.8144884
+CCNC(C)C(=O)c1ccc(C)cc1,Finnish Customs Laboratory,4.338992
+CCCCCCC(C(=O)c1ccc(OC)cc1)N1CCCC1,Finnish Customs Laboratory,6.6571975
+CCCCN(CCCC)CCc1c[nH]c2ccc(OC)cc12,Finnish Customs Laboratory,6.10273
+COC(=O)C(NC(=O)c1cn(CC2CCCCC2)c2ccccc12)C(C)C,Finnish Customs Laboratory,9.290445
+CC12C=CC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,Finnish Customs Laboratory,6.7661505
+O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1,Finnish Customs Laboratory,7.038043
+COc1cc(CC(C)N)c(OC)cc1C,Finnish Customs Laboratory,5.278107
+CNC1(c2ccccc2)CCCCC1=O,Finnish Customs Laboratory,3.965303
+c1ccc(CC(c2ccccc2)N2CCCCC2)cc1,Finnish Customs Laboratory,5.7188683
+CCOC(=O)C(c1ccccc1)C1CCCCN1,Finnish Customs Laboratory,4.977292
+Cc1nnc2n1-c1ccc(Br)cc1C(c1ccccc1F)=NC2,Finnish Customs Laboratory,6.8531194
+C=CCCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Finnish Customs Laboratory,9.892184
+CCN(CC)CC(=O)Nc1c(C)cccc1C,Finnish Customs Laboratory,4.056897
+COc1cc(CCN)cc(OC)c1OC,Finnish Customs Laboratory,3.6010828
+CCNC(CC)C(=O)c1ccccc1,Finnish Customs Laboratory,4.156604
+CCCCC(NCC)C(=O)c1ccccc1,Finnish Customs Laboratory,5.549324
+CCOC(=O)CNC(=O)C1CCCN1C(=O)Cc1ccccc1,Finnish Customs Laboratory,6.1225834
+CCCC(NC)C(=O)c1ccccc1,Finnish Customs Laboratory,4.418078
+CCN(CC)CCOC(=O)c1ccc(N)cc1,Finnish Customs Laboratory,3.312842
+CCC(c1cccc(O)c1)C(C)CN(C)C,Finnish Customs Laboratory,4.5338063
+CCCCCCC(C(=O)c1ccccc1)N1CCCC1,Finnish Customs Laboratory,6.453725
+Clc1cccc(N2CCNCC2)c1,Finnish Customs Laboratory,4.6439333
+COC(=O)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(C)(C)C,Ghent University,7.599179
+CN1C(=O)CN=C(c2ccccc2F)c2cc(N)ccc21,Ghent University,4.7228885
+CC(C)C(NC(=O)c1nn(CC2CCCCC2)c2ccccc12)C(N)=O,Ghent University,7.38362
+CC(C)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(N)=O,Ghent University,6.9117346
+C=CC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Ghent University,5.3832626
+CCCC(C(=O)c1ccccc1)N1CCCC1,Ghent University,4.281485
+CC(N)Cc1ccccc1,Ghent University,3.0155616
+CC(c1ccc(Br)cc1)N1CCC(n2c(=O)[nH]c3ccccc32)CC1,Ghent University,5.2284093
+CC(C)OC(=O)C(c1ccccc1)C1CCCCN1,Ghent University,5.0393767
+CNC1(c2ccccc2Cl)CCCCC1=O,Ghent University,4.012154
+CCN(CC)C(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,Ghent University,4.582922
+CCCC(NCC)C(=O)c1ccc2c(c1)OCO2,Ghent University,4.389966
+CN(C1=NC(=O)C(c2ccccc2)O1)C1CC1,Ghent University,3.4325995
+CCCC(C(=O)c1ccc2ccccc2c1)N1CCCC1,Ghent University,5.619913
+CNC(C)Cc1ccc(OC)cc1,Ghent University,3.5643003
+CC(C)CC(CN)CC(=O)O,Ghent University,2.8324957
+CNC1(c2ccccc2F)CCCCC1=O,"IUPA, UJI I (E)",3.4344745
+CCNC(C)Cc1cccc(F)c1,"IUPA, UJI I (E)",3.3866296
+CCNC(C)C(=O)c1cccc(C)c1,"IUPA, UJI I (E)",3.674008
+CNC(C)C(=O)c1cccc(OC)c1,"IUPA, UJI I (E)",3.0754414
+CCCC(C(=O)c1ccc(Cl)cc1)N1CCCC1,"IUPA, UJI I (E)",7.2380934
+CCCCC(C(=O)c1ccc(F)cc1)N1CCCC1,"IUPA, UJI I (E)",7.16565
+COc1ccc2[nH]cc(CCN(C)C(C)C)c2c1,"IUPA, UJI I (E)",3.6133966
+CCC(NC)C(=O)c1ccccc1,"IUPA, UJI I (E)",3.0761027
+CCCCn1c(C)c(C(=O)c2cccc3ccccc23)c2ccccc21,"IUPA, UJI I (E)",13.349339
+CCCCCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,"IUPA, UJI I (E)",13.741515
+CCCCCn1c(C)c(C(=O)c2ccc(OC)c3ccccc23)c2ccccc21,"IUPA, UJI I (E)",13.802301
+CCCCCn1cc(C(=O)c2ccc(C)c3ccccc23)c2ccccc21,"IUPA, UJI I (E)",13.667876
+CC(C)(C)C(NC(=O)c1nn(CC2CCCCC2)c2ccccc12)C(N)=O,"IUPA, UJI I (E)",11.954876
+CCCCC(C(=O)c1ccc(C)cc1)N1CCCC1,"IUPA, UJI I (E)",7.47744
+CNC(C)C(=O)c1ccc(OC)cc1,"IUPA, UJI I (E)",3.0161042
+CNC(C)C(=O)c1ccc2c(c1)OCO2,"IUPA, UJI I (E)",2.4319644
+CC(C(=O)c1ccccc1)N(C)C,"IUPA, UJI I (E)",2.473127
+CCCC(C(=O)c1ccc2c(c1)CCCC2)N1CCCC1,"IUPA, UJI I (E)",8.742987
+CNC(C)C(=O)c1cccs1,"IUPA, UJI I (E)",2.0261302
+CCN(CC)C(=O)C1C=C2c3cccc4c3C(O)(CC2N(C)C1)C(=O)N4,King's College Hospital,5.170184
+COc1cc(CCN)c(OC)cc1I,King's College Hospital,6.662057
+CNC(C)C(=O)c1ccc(C)c(C)c1,King's College Hospital,6.2107716
+CC(N)Cc1ccc(F)cc1,King's College Hospital,4.7965703
+CNC(C)Cc1ccc(F)cc1,King's College Hospital,4.989773
+CCNC(C)C(=O)c1ccc(C)cc1,King's College Hospital,5.97525
+COc1ccc2c3c1OC1C(OC(C)=O)C=CC4C(C2)N(C)CCC341,King's College Hospital,6.2175055
+OCc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,King's College Hospital,7.6372523
+CC(N)Cc1ccccc1,King's College Hospital,4.8323164
+CN1C2CCC1C(C(=O)O)C(OC(=O)c1ccccc1)C2,King's College Hospital,5.5605316
+O=C1CN=C(c2ccccc2F)c2cc([N+](=O)[O-])ccc2N1,King's College Hospital,7.4408464
+COc1ccc2c3c1OC1C(O)CCC4C(C2)N(C)CCC341,King's College Hospital,4.9542155
+CN1C(=O)CN=C(c2ccccc2F)c2cc([N+](=O)[O-])ccc21,King's College Hospital,8.104923
+CCN(CC)CCN1C(=O)CN=C(c2ccccc2F)c2cc(Cl)ccc21,King's College Hospital,7.6363363
+CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3C1C5,King's College Hospital,4.4287324
+CCCCCn1cc(C(=O)c2ccc(OC)c3ccccc23)c2ccccc21,King's College Hospital,10.947625
+CCCCCn1cc(C(=O)c2ccc(CC)c3ccccc23)c2ccccc21,King's College Hospital,11.422845
+CCCCCn1cc(C(=O)Cc2ccccc2OC)c2ccccc21,King's College Hospital,10.44469
+CCN(CC)C(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,King's College Hospital,6.706822
+CN1C(=O)C(O)N=C(c2ccccc2Cl)c2cc(Cl)ccc21,King's College Hospital,8.458084
+COC(=O)C(c1ccccc1)C1CCCCN1,King's College Hospital,6.3353696
+O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1,King's College Hospital,7.478129
+COC12CCC3(CC1C(C)(O)C(C)(C)C)C1Cc4ccc(O)c5c4C3(CCN1)C2O5,King's College Hospital,6.534002
+COc1ccc2c3c1OC1C(=O)CCC4(O)C(C2)N(C)CCC314,King's College Hospital,5.4982095
+CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,King's College Hospital,4.4017744
+O=C1CN=C(c2ccccc2Cl)c2cc(Br)ccc2N1,King's College Hospital,8.386914
+c1ccc(C2(N3CCCCC3)CCCCC2)cc1,King's College Hospital,7.175502
+COc1cc(CCNCc2ccccc2OC)c(OC)cc1I,LADR,6.4817305
+CCc1ccc(C(=O)C(C)NC)cc1,LADR,4.4568014
+CC(N)Cc1ccc(F)cc1,LADR,3.3735647
+CNC(C)Cc1ccc(F)cc1,LADR,3.5489473
+COC(=O)C(NC(=O)c1nn(CCCCF)c2ccccc12)C(C)(C)C,LADR,7.8521485
+COC(=O)C(NC(=O)c1nn(CCCCCF)c2ccccc12)C(C)(C)C,LADR,8.027408
+CC(N)Cc1ccccc1,LADR,3.2157297
+CC(N)Cc1c2ccoc2c(Br)c2ccoc12,LADR,5.884348
+Cc1nnc2n1-c1ccc([N+](=O)[O-])cc1C(c1ccccc1Cl)=NC2,LADR,6.0645986
+CCOC(=O)C(c1ccccc1)C1CCCCN1,LADR,4.696482
+CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,LADR,5.6408496
+c1ccc(CC(c2ccccc2)N2CCN(C3CCCCC3)CC2)cc1,LADR,6.520029
+CCc1cc2c(s1)-n1cnnc1CN=C2c1ccccc1Cl,LADR,6.24952
+NC1(c2ccccc2Cl)CCCCC1=O,LADR,4.1529417
+O=C(O)C(c1ccccc1)C1CCCCN1,LADR,3.4572606
+CC(C(=O)c1ccc2c(c1)OCO2)N(C)C,LADR,3.0796003
+Clc1cccc(N2CCNCC2)c1,LADR,4.321001
+O=C(NC12CC3CC(CC(C3)C1)C2)c1nn(CCCC(O)CF)c2ccccc12,Labor Krone,11.574384
+CC(C(=O)O)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(N)=O,Labor Krone,8.650163
+CC(C)C(NC(=O)c1nn(CCCCC(=O)O)c2ccccc12)C(N)=O,Labor Krone,7.5970407
+O=C(c1ccccc1I)c1cn(CCCCCO)c2ccccc12,Labor Krone,9.691009
+O=C1CN=C(c2ccccc2F)c2cc(Cl)ccc2N1,Labor Krone,8.707737
+CCCCCn1c(C)c(C(=O)c2cccc3ccccc23)c2ccccc21,Labor Krone,12.880027
+CCc1ccc(C(=O)c2cn(CCCCCO)c3ccccc23)c2ccccc12,Labor Krone,11.549397
+COc1ccccc1CC(=O)c1cn(CCCCCO)c2ccccc12,Labor Krone,10.662524
+Cc1ccc(C(=O)c2cn(CCCCCF)c3ccccc23)c2ccccc12,Labor Krone,12.072716
+Cc1ccc(C(=O)c2cn(CCCCC(=O)O)c3ccccc23)c2ccccc12,Labor Krone,10.942695
+O=C(NC12CC3CC(CC(C3)C1)C2)c1cn(CCCCCF)c2ccccc12,Labor Krone,12.3190365
+O=C(c1cccc2ccccc12)c1nn(CCCCCF)c2ccccc12,Labor Krone,12.045546
+CC1(C)C(C(=O)c2cn(CCCC(O)CF)c3ccccc23)C1(C)C,Labor Krone,11.059808
+CCC(=O)n1cc2c3c(cccc31)C1=CC(C(=O)N(CC)CC)CN(C)C1C2,Mainz,13.264654
+CCNC(C)C(=O)c1ccccc1Cl,Mainz,8.889203
+CC(N)Cc1ccccc1F,Mainz,6.957167
+COc1cc(CCNCc2ccccc2O)c(OC)cc1I,Mainz,13.354672
+COc1cc(C(C)C)c(OC)cc1CCNCc1ccccc1OC,Mainz,15.287347
+COc1cc(CCN)c(OC)cc1Cl,Mainz,8.65865
+CCc1cc(OC)c(CCN)cc1OC,Mainz,10.012084
+COc1ccc(OC)c(CCN)c1,Mainz,7.0363755
+CCSc1cc(OC)c(CCN)cc1OC,Mainz,9.936039
+COc1cc(SC(C)C)c(OC)cc1CCN,Mainz,10.690608
+CC(N)Cc1cccc(F)c1,Mainz,6.3848047
+CCNC(C)C(=O)c1cccc(F)c1,Mainz,7.734384
+CNC(C)C(=O)c1cccc(OC)c1,Mainz,7.4228644
+CC(N)Cc1c2c(c(Br)c3c1OCC3)OCC2,Mainz,9.541827
+CCOc1c(OC)cc(CC(C)N)cc1OC,Mainz,7.3224573
+CCC1NCCOC1c1cccc(F)c1,Mainz,8.675461
+CCNC(C)Cc1cccc2occc12,Mainz,8.602647
+CCNC(C)C(=O)c1ccc(CC)cc1,Mainz,9.606173
+CCCC(NC)C(=O)c1ccc(C)cc1,Mainz,11.209768
+CCN(CC)CCc1c[nH]c2cccc(O)c12,Mainz,5.6075215
+CCCC(=O)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1,Mainz,13.224682
+CCCC(C(=O)c1ccc(F)cc1)N1CCCC1,Mainz,12.306757
+CCCCC(C(=O)c1ccc2c(c1)CCC2)N1CCCC1,Mainz,15.84749
+CNC(C)Cc1ccc2occc2c1,Mainz,7.767955
+C=CCN(CC=C)CCc1c[nH]c2ccc(OC)cc12,Mainz,10.98781
+CC(C)C(NC(=O)c1cc(-c2ccc(F)cc2)n(CCCCCF)n1)C(N)=O,Mainz,15.101578
+CC(C)C(NC(=O)c1nn(CCCCCF)c2ccccc12)C(N)=O,Mainz,13.902698
+CC(C)(C)C(NC(=O)c1nn(CCCCCF)c2ccccc12)C(=N)O,Mainz,13.541217
+COC(=O)C(NC(=O)c1nn(CCCCCF)c2ccccc12)C(C)C,Mainz,16.051865
+CC(C)C(NC(=O)c1nn(CCCCCF)c2ccccc12)C(=O)O,Mainz,13.41675
+O=C(c1ccc(F)c2ccccc12)c1cn(CCCCCF)c2ccccc12,Mainz,18.185308
+O=C(Oc1cccc2cccnc12)c1cn(CCCCCF)c2ccccc12,Mainz,16.328947
+CC(C)C(NC(=O)c1cn(Cc2ccccc2)c2ccccc12)C(N)=O,Mainz,14.423174
+CC(C)C(NC(=O)c1cc(-c2ccc(F)cc2)nn1CC1CCCCC1)C(N)=O,Mainz,16.985523
+CC(C)C(NC(=O)c1cn(CC2CCCCC2)c2ccccc12)C(N)=O,Mainz,16.586948
+O=C(O)c1nn(CC2CCC(O)CC2)c2ccccc12,Mainz,8.459293
+CC(C(=O)O)C(NC(=O)c1nn(CC2CCCCC2)c2ccccc12)C(N)=O,Mainz,12.110694
+CC(C)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(=O)O,Mainz,14.212678
+CC(C)C(NC(=O)c1nn(Cc2cccc(F)c2)c2ccccc12)C(N)=O,Mainz,15.117119
+CC(C)C(NC(=O)c1nn(CCCCC(=O)O)c2ccccc12)C(N)=O,Mainz,10.005081
+CCCCCn1nc(C(=O)NC(C(=O)O)C(C)C)c2ccccc21,Mainz,15.307437
+CC1(C)COC(=O)C1NC(=O)c1nn(CC2CCCCC2)c2ccccc12,Mainz,18.443604
+CC(O)CCCn1nc(C(=O)NC(C(N)=O)C(C)(C)C)c2ccccc21,Mainz,12.733219
+CCCCCn1cc(C(=O)NC(C(N)=O)C(C)(C)C)c2ccccc21,Mainz,16.523802
+CC(O)CCCn1cc(C(=O)NC(C(N)=O)C(C)(C)C)c2ccccc21,Mainz,12.96427
+CC(C)(C)C(NC(=O)c1cn(CCCCC(=O)O)c2ccccc12)C(N)=O,Mainz,10.982537
+CN(C)C1(CNC(=O)c2ccc(Cl)c(Cl)c2)CCCCC1,Mainz,12.417016
+CC(O)CCCn1nc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21,Mainz,17.68103
+CN1CCCCC1Cn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Mainz,15.167387
+O=C(c1cccc2ccccc12)c1cn(CCCC(O)CF)c2ccccc12,Mainz,15.242716
+O=C(c1cccc2ccccc12)c1cn(CCCCCF)c2cc(O)ccc12,Mainz,15.6718235
+N#CCCCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Mainz,14.570313
+CN1CCCCC1Cn1cc(C(=O)c2ccccc2I)c2ccccc21,Mainz,14.272755
+CC(C)C(NC(=O)c1cn(CC2CCCCC2)c2ccccc12)C(=O)O,Mainz,15.751492
+CCCCCn1cc(C(=O)NC(C(=O)O)C(C)C)c2ccccc21,Mainz,14.90722
+CC(O)CCCn1cc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21,Mainz,17.192453
+NC(=O)C(Cc1ccccc1)NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12,Mainz,15.065018
+CC(CN)c1ccccc1,Mainz,7.5139794
+CC(N)Cc1c2ccoc2c(Br)c2ccoc12,Mainz,11.462359
+CCCCCOc1ccc(C(=O)c2cccc3ccccc23)c2ccccc12,Mainz,20.65726
+CC(N)C(O)c1ccccc1,Mainz,5.9013586
+CCCCn1cc(C(=O)NC(C)(C)c2ccccc2)c2ccccc21,Mainz,17.665762
+CCCCCn1c2ccccc2c2c(=O)n(C(C)(C)c3ccccc3)ccc21,Mainz,18.696888
+CC(C)(NC(=O)c1nn(CC2CCOCC2)c2ccccc12)c1ccccc1,Mainz,15.665884
+COc1cc(CC(C)N)c(OC)cc1Cl,Mainz,9.27789
+COc1cc(CC(C)N)c(OC)cc1C,Mainz,9.256063
+CC(C)N(CCc1c[nH]c2ccccc12)C(C)C,Mainz,9.509378
+CCc1ccc(C(=O)c2cn(CCCCCF)c3ccccc23)c2ccccc12,Mainz,18.77987
+CNC(C)C(O)c1ccccc1,Mainz,6.086484
+CCc1ccccc1-n1c(C)nc2ccccc2c1=O,Mainz,14.289726
+CC1(C)C(C(=O)c2nn(CCCCCF)c3ccccc23)C1(C)C,Mainz,18.261412
+CC1(C)C(C(=O)c2cn(Cc3ccc(F)cc3)c3ccccc23)C1(C)C,Mainz,18.673439
+COC(=O)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(C)C,Mainz,16.727427
+CC(Cc1ccccc1)NCCC#N,Mainz,5.852284
+O=C1CN=C(c2ccccc2F)c2cc(Br)ccc2N1,Mainz,13.560559
+Cc1nnc2n1-c1ccc(Br)cc1C(c1ccccc1F)=NC2,Mainz,13.283398
+CC(C)OC(=O)C(c1ccccc1)C1CCCCN1,Mainz,11.22039
+CCCCCn1cc(C(=O)c2cccc3ccccc23)c2ccc(O)cc21,Mainz,17.365221
+CCCCCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Mainz,19.612082
+CCCCCCn1ccc(C(=O)c2cccc3ccccc23)c1,Mainz,18.680637
+CCCCCn1cc(C(=O)c2ccc(C)c3ccccc23)c2ccccc21,Mainz,19.471895
+COc1ccccc1CC(=O)c1cn(CCCC(C)O)c2ccccc12,Mainz,14.91557
+O=C(c1ccc(Cl)c2ccccc12)c1cn(CCCCCO)c2ccccc12,Mainz,17.192719
+Cc1ccc(C(=O)c2cn(CCCCCF)c3ccccc23)c2ccccc12,Mainz,18.123426
+C=CCCCn1nc(C(=O)NC(C(=O)O)C(C)(C)C)c2ccccc21,Mainz,15.514271
+COC(=O)C(NC(=O)c1cn(CC2CCCCC2)c2ccccc12)C(C)(C)C,Mainz,18.606558
+CC(C)(C)C(NC(=O)c1cn(CC2CCCCC2)c2ccccc12)C(=O)O,Mainz,16.265196
+CC(C)(C)C(NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(=O)O,Mainz,14.661488
+CCCC(C(=O)c1ccc2c(c1)OCO2)N1CCCC1,Mainz,10.592805
+CCCCCn1cc(C(=O)N2CCN(C)CC2)c2ccccc21,Mainz,15.058334
+CC(C)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(=O)O,Mainz,13.234121
+CCCCCn1nc(C(=O)Nc2cccc3ccccc23)c2ccccc21,Mainz,19.499025
+COC(=O)C(Cc1ccccc1)NC(=O)c1cn(CCCCCF)c2ccccc12,Mainz,15.7823305
+CNCC1CCc2ccccc2C1=O,Mainz,6.6139946
+CNC(C)C(=O)c1ccc(C)cc1,Mainz,8.17776
+CC(C(=O)c1ccccc1)N(C)C,Mainz,7.888519
+C=C(C)COc1c(OC)cc(CCN)cc1OC,Mainz,8.832048
+CNC1(c2cccc(OC)c2)CCCCC1=O,Mainz,9.507718
+CNC(COC)C(=O)c1ccc(C)cc1,Mainz,8.562877
+CCNC(CC)C(=O)c1ccccc1,Mainz,8.376939
+CCCCC(NCC)C(=O)c1ccccc1,Mainz,10.84933
+CN1C(=O)CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc21,Mainz,13.163945
+O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1,Mainz,11.957374
+CCCCCn1cc(C(=O)O)c2ccccc21,Mainz,13.907027
+O=C(Oc1cccc2cccnc12)c1cn(CCCCCO)c2ccccc12,Mainz,14.97702
+O=C(O)c1cn(CCCCCO)c2ccccc12,Mainz,8.354264
+NC(=O)C(Cc1ccccc1)NC(=O)c1nn(CCCCCF)c2ccccc12,Mainz,14.271011
+NC(=O)C(Cc1ccccc1)NC(=O)c1nn(CC2CCCCC2)c2ccccc12,Mainz,16.481869
+Cc1nnc2n1-c1ccc(Br)cc1C(c1ccccn1)=NC2,Mainz,10.650476
+CCCCn1cc(C(=O)c2ccc(OC)cc2)c2ccccc21,Mainz,17.168104
+CN1C(=O)CN=C(c2ccc(Cl)cc2)c2cc(Cl)ccc21,Mainz,16.815697
+CCCCCn1nc(C(=O)Oc2cccc3ccccc23)c2ccccc21,Mainz,19.189655
+O=C(c1cccc2ccccc12)c1nn(CCCCCF)c2ccccc12,Mainz,18.208832
+CNC(C)C(=O)c1cccs1,Mainz,6.687533
+COC(=O)C1C(c2ccc(F)cc2)CC2CCC1N2C,Mainz,12.444281
+COc1ccc(C(=O)c2c(C)n(CCN3CCOCC3)c3ccccc23)cc1,Mainz,14.142761
+C=CCCCn1cc(C(=O)C2C(C)(C)C2(C)C)c2ccccc21,Mainz,19.166916
+CCCCCCCC(C(=O)c1ccccc1)N1CCCC1,Mainz,16.185066
+CCCC(C(=O)c1cccs1)N1CCCC1,Mainz,10.865397
+OCc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2,Mainz,12.024924
+COc1cc(C(=O)CN)c(OC)cc1Br,Mainz,9.406552
+Fc1ccc(CN2CCNCC2)cc1,Mainz,6.681749
+CCCC(=O)n1cc2c3c(cccc31)C1=CC(C(=O)N(CC)CC)CN(C)C1C2,Odense,7.0051446
+CC(C)C(=O)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1,Odense,7.564763
+CC(C)(C)C(NC(=O)c1cn(CCCCF)c2ccccc12)C(=O)O,Odense,9.213336
+CNC(C)C(=O)c1ccc(F)cc1,Odense,3.714305
+CC(=O)N(c1ccccc1)C1CCNCC1,Odense,3.6660566
+Fc1ccc(NC2CCN(CCc3ccccc3)CC2)cc1,Odense,6.45886
+CCOc1ccc(Cc2nc3cc([N+](=O)[O-])ccc3n2CCN(CC)CC)cc1,Odense,7.150255
+Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2,Odense,7.890234
+CCN(CC)CCn1c(Cc2ccc(OC)cc2)nc2cc([N+](=O)[O-])ccc21,Odense,6.729112
+O=C(Oc1cccc2ccccc12)c1cn(CCCCCF)c2ccccc12,Odense,11.073848
+CCCCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Odense,7.381188
+CCC(=O)N(c1ccccc1)C1CCN(CCc2cccc(OC)c2OC)CC1,San Francisco OCME,7.0699286
+CCC(=O)N(c1ccccc1)C1CCN(CCc2cc(OC)c(Br)cc2OC)CC1,San Francisco OCME,8.052707
+CCC(=O)N(c1ccccc1)C1CCN(CCc2cc(OC)c(Cl)cc2OC)CC1,San Francisco OCME,7.7505565
+CCC(=O)N(c1ccccc1)C1CCN(C(C)Cc2cc(OC)c(I)cc2OC)CC1,San Francisco OCME,8.608369
+CCC(=O)N(c1ccccc1)C1CCN(CCc2cc(OC)c(SC)cc2OC)CC1,San Francisco OCME,8.054468
+CCC(=O)N(c1ccccc1)C1CCN(CCc2c(OC)cccc2OC)CC1,San Francisco OCME,7.2739925
+O=C(c1cccc2c1OCO2)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.689263
+Cc1[nH]c2ccccc2c1CCN(C)C,San Francisco OCME,4.330454
+COc1cc(CCN)c(OC)cc1Cl,San Francisco OCME,4.835259
+COc1cc(CCN)c(OC)cc1I,San Francisco OCME,5.5577326
+CCCSc1cc(OC)c(CCN)cc1OC,San Francisco OCME,6.13887
+CCC(=O)N(c1ccccc1)C1CCN(C(C)Cc2cc(OC)c(OC)c(OC)c2)CC1,San Francisco OCME,7.016544
+CC(NC(C)(C)C)C(=O)c1ccc2c(c1)OCO2,San Francisco OCME,4.4828243
+CCNC(C)C(=O)c1cccc(CC)c1,San Francisco OCME,4.492005
+CCC(=O)N(c1ccccc1)C1CCN(CCc2ccc(C)cc2)CC1,San Francisco OCME,6.968291
+c1ccc(CCN2CCC(Nc3ccccc3)CC2)cc1,San Francisco OCME,6.2468767
+CCN(C)CCc1c[nH]c2cccc(OC(C)=O)c12,San Francisco OCME,4.0988374
+c1ccc(CN2CCC(Nc3ccccc3)CC2)cc1,San Francisco OCME,5.9580584
+O=C(O)c1c2ccccc2nn1CCCCF,San Francisco OCME,6.1120887
+CCCC(C(=O)c1ccc(F)c(C)c1)N1CCCC1,San Francisco OCME,6.1832876
+CNC(C)Cc1ccc(F)cc1,San Francisco OCME,3.8194566
+CCN(CC)CCc1c[nH]c2cccc(O)c12,San Francisco OCME,3.380734
+CCCN(CC)CCc1c[nH]c2cccc(O)c12,San Francisco OCME,4.0259905
+CCN(C)CCc1c[nH]c2cccc(O)c12,San Francisco OCME,2.9458609
+CCNC1(c2ccc(OC)cc2)CCCCC1,San Francisco OCME,6.2982893
+CCC(N)Cc1c[nH]c2cccc(C)c12,San Francisco OCME,5.1743913
+CC(C)C(NC(=O)c1nn(CCCCCCl)c2ccccc12)C(N)=O,San Francisco OCME,8.155187
+CN(C)CCc1c[nH]c2ccc(Cl)cc12,San Francisco OCME,4.5169983
+CCOC(=O)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(C)(C)C,San Francisco OCME,9.449904
+O=C(O)c1cn(CCCCCF)c2ccccc12,San Francisco OCME,7.1790657
+CN(C)CCc1c[nH]c2ccc(O)cc12,San Francisco OCME,2.000967
+CNCCc1c[nH]c2ccc(O)cc12,San Francisco OCME,2.3008404
+COc1ccc2c(CCN(C(C)C)C(C)C)c[nH]c2c1,San Francisco OCME,5.4030266
+O=C(NC12CC3CC(CC(C3)C1)C2)c1nn(CC2CCCCC2)c2ccccc12,San Francisco OCME,11.530295
+COC(=O)C(NC(=O)c1nn(CCCCCF)c2ccccc12)C(C)(C)C,San Francisco OCME,9.4157715
+CN(C)C1(CNC(=O)c2ccc(Cl)c(Cl)c2)CCCCC1,San Francisco OCME,6.642443
+O=C(NC12CC3CC(CC(C3)C1)C2)c1nn(CCCCCO)c2ccccc12,San Francisco OCME,9.675246
+O=C(c1cccc2ccccc12)c1cn(CCCCCF)c2ccccc12,San Francisco OCME,9.856858
+CCN(CC)C(C)C(=O)c1ccccc1,San Francisco OCME,3.8013034
+CCCCCCN1C(=O)C(=NNC(=O)c2ccccc2)c2ccccc21,San Francisco OCME,10.481637
+CC(c1ccc(Br)cc1)N1CCC(n2c(=O)[nH]c3ccccc32)CC1,San Francisco OCME,6.3209434
+CCC(NC)C(=O)c1ccccc1,San Francisco OCME,3.8749642
+COC12CCC3(CC1C(C)(O)C(C)(C)C)C1Cc4ccc(O)c5c4C3(CCN1CC1CC1)C2O5,San Francisco OCME,6.553434
+CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1,San Francisco OCME,5.189936
+O=C(O)CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,5.3054857
+CN(C)C(=O)OC1N=C(c2ccccc2)c2cc(Cl)ccc2N(C)C1=O,San Francisco OCME,8.248442
+O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1,San Francisco OCME,7.3571906
+O=C(CC1CC1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.8261137
+O=C(C1CC1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.887331
+CN1CCC(=C2c3ccccc3C=Cc3ccccc32)CC1,San Francisco OCME,6.440029
+O=C1CN=C(c2ccccc2Cl)c2cc(Cl)ccc2N1,San Francisco OCME,7.964752
+CCc1cc2c(s1)-n1c(C)nnc1CN=C2c1ccccc1,San Francisco OCME,7.3070135
+Fc1ccc(NC2CCN(Cc3ccccc3)CC2)cc1,San Francisco OCME,6.097741
+CN1C(=O)CN=C(c2ccccc2Cl)c2cc(Cl)ccc21,San Francisco OCME,8.740881
+CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21,San Francisco OCME,5.4209332
+CCOCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.203857
+CCc1cc2c(s1)-n1c(C)nnc1CN=C2c1ccccc1Cl,San Francisco OCME,7.750856
+CCOc1ccc(Cc2nc3ccccc3n2CCN(CC)CC)cc1,San Francisco OCME,4.950426
+CC(C)(C)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(N)=O,San Francisco OCME,8.791651
+O=C1CN=C(c2ccccc2F)c2cc(Br)ccc2N1,San Francisco OCME,7.6587877
+CCN(CC)CCn1c(Cc2ccc(F)cc2)nc2cc([N+](=O)[O-])ccc21,San Francisco OCME,6.2047114
+O=C(c1ccco1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.515038
+O=C(c1ccoc1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.760164
+CCCCCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,7.5963326
+CCCCCn1cc(C(=O)Cc2ccccc2OC)c2ccccc21,San Francisco OCME,10.015289
+CCC(Cc1ccc2c(c1)OCO2)NC,San Francisco OCME,4.4081073
+CCC(C(=O)c1ccc2c(c1)OCO2)N1CCCC1,San Francisco OCME,4.6635475
+COC(=O)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(C)C,San Francisco OCME,9.360182
+CC12CC3CC(C)(C1)CC(N)(C3)C2,San Francisco OCME,6.034935
+CNC(C)C(=O)c1ccc(C)cc1,San Francisco OCME,4.033237
+COCC(=O)N(c1ccccc1)C1CCNCC1,San Francisco OCME,3.385406
+CCC1CN2CCc3c([nH]c4cccc(OC)c34)C2CC1C(=COC)C(=O)OC,San Francisco OCME,6.3424077
+O=C(c1ccccc1)N(c1ccccc1)C1CCN(Cc2ccccc2)CC1,San Francisco OCME,6.7360253
+CCNC(C)Cc1ccccc1,San Francisco OCME,3.9847531
+CCN(C)CCc1c[nH]c2ccccc12,San Francisco OCME,3.8503146
+CCOc1ccc(Cc2nc3cc([N+](=O)[O-])ccc3n2CCN2CCCC2)cc1,San Francisco OCME,7.0255585
+COc1cc(CCN(Cc2ccccc2OC)C(C)=O)c(OC)cc1I,San Francisco OCME,9.2421055
+CCCCC(NCCC)C(=O)c1ccc2c(c1)OCO2,San Francisco OCME,6.0329742
+COC12CCC3(CC1C(C)(O)C(C)(C)C)C1Cc4ccc(O)c5c4C3(CCN1)C2O5,San Francisco OCME,5.281173
+O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1,San Francisco OCME,7.7670655
+NC1(c2ccccc2Cl)CCCCC1=O,San Francisco OCME,4.4360595
+COCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,5.73116
+COc1ccc2c3c1OC1C(=O)CCC4(O)C(C2)N(C)CCC314,San Francisco OCME,3.843505
+CCCC(NC)C(=O)c1ccc2c(c1)OCO2,San Francisco OCME,4.738215
+O=C1CN=C(c2ccccc2Cl)c2cc(Br)ccc2N1,San Francisco OCME,7.9815583
+O=C(COc1ccccc1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.563017
+CC(C)(N)Cc1ccccc1,San Francisco OCME,4.0837226
+CC(C)(C)C(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,7.1558075
+CC(C)CC(CN)CC(=O)O,San Francisco OCME,3.3466544
+CN(C)CCc1c[nH]c2cccc(O)c12,San Francisco OCME,2.6963425
+Cc1nnc2n1-c1ccc(Br)cc1C(c1ccccn1)=NC2,San Francisco OCME,5.863043
+CCCCCn1nc(C(=O)Oc2cccc3ccccc23)c2ccccc21,San Francisco OCME,10.611625
+O=C1CC2OCC=C3CN4CCC56c7ccccc7N1C5C2C3CC46,San Francisco OCME,4.1946683
+O=C(C1CCCS1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,7.2794094
+CN(C)C1CCCCC1N(C)C(=O)c1ccc(Cl)c(Cl)c1,San Francisco OCME,6.2848673
+CN(C)C1CCCCC1NC(=O)c1ccc(Br)cc1,San Francisco OCME,5.846818
+CN(C)C1CCCCC1N(C)C(=O)Cc1ccc(Cl)cc1Cl,San Francisco OCME,6.615466
+CC1(C)C(C(=O)c2cn(CCCCCF)c3ccccc23)C1(C)C,San Francisco OCME,9.959357
+CCC(N)Cc1c[nH]c2ccccc12,San Francisco OCME,4.330835
+CCC(C(=O)c1ccccc1)N1CCCC1,San Francisco OCME,4.360671
+O=C(CCc1ccccc1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,7.285364
+CCC(=O)N(c1ccccc1)C1CCN(CC(C)c2ccccc2)CC1,San Francisco OCME,6.7732677
+COc1cccc(N(C(=O)c2ccco2)C2CCN(CCc3ccccc3)CC2)c1,San Francisco OCME,6.9358296
+Cc1cccc(N(C(=O)C2CC2)C2CCN(CCc3ccccc3)CC2)c1,San Francisco OCME,7.3639593
+COCC(=O)N(c1cccc(C)c1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.310893
+C=CC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.5025396
+CCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.5424623
+CC(C)C(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.9226203
+CCCCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,7.384879
+CC(C)c1ccccc1N(C(=O)c1ccco1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,7.395257
+O=C(C1CC1)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,7.4269714
+CCCCC(=O)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,7.9714518
+CC=CC(=O)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.768384
+CCCCC(=O)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,7.2663627
+COc1ccc(N(C(C)=O)C2CCN(CCc3ccccc3)CC2)cc1,San Francisco OCME,6.0576434
+CCC(=O)N(c1ccc(OC)cc1)C1CCN(CCc2ccccc2)CC1,San Francisco OCME,6.61429
+COc1ccc(CC(C)N)cc1,San Francisco OCME,3.7461348
+CCCC(=O)N1CCN(CC=Cc2ccccc2)CC1C,The University of Queensland,10.593239
+Cc1nnc2n1-c1ccc([N+](=O)[O-])cc1C(c1ccccc1Cl)=NC2,The University of Queensland,10.144086
+Cc1nnc2n1-c1ccc(Br)cc1C(c1ccccc1F)=NC2,The University of Queensland,10.949827
+C=CCCCn1nc(C(=O)NC(C(=O)OC)C(C)(C)C)c2ccccc21,The University of Queensland,14.693156
+CNC(C)C(=O)c1ccc(C)cc1,The University of Queensland,6.671784
+CNC(C)Cc1cccs1,The University of Queensland,5.638734
+CNC(C)C(=O)c1ccc2c(c1)OCO2,The University of Queensland,5.125858
+CCCCC(NCC)C(=O)c1ccccc1,The University of Queensland,8.779513
+CCCC(NC)C(=O)c1ccccc1,The University of Queensland,7.610196
+CN(C)C1CCCCC1N(C)C(=O)c1ccc(Cl)c(Cl)c1,The University of Queensland,10.975203
+CCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,Trondheim,7.113127
+COc1ccc(C2(N3CCCCC3)CCCCC2)cc1,Trondheim,7.3508363
+Cc1nnc2n1-c1ccc(N)cc1C(c1ccccc1F)=NC2,Trondheim,5.0718102
+CC(C)C(NC(=O)c1nn(CC2CCCCC2)c2ccccc12)C(=O)O,Trondheim,11.999954
+CC(C)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(=O)O,Trondheim,11.130071
+CN(C)C1(CNC(=O)c2ccc(Cl)c(Cl)c2)CCCCC1,Trondheim,7.324637
+Cc1nnc2n1-c1ccc([N+](=O)[O-])cc1C(c1ccccc1F)=NC2,Trondheim,7.8146
+O=C(O)CCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Trondheim,10.70319
+CCNC1(c2cccc(OC)c2)CCCCC1=O,Trondheim,5.0182557
+CC(O)CCCn1cc(C(=O)Oc2cccc3cccnc23)c2ccccc21,Trondheim,10.871703
+NCCc1c2c(c(Br)c3c1OCC3)OCC2,University Hospital of Northern Norway,4.7236204
+COc1cc(CCN)c(OC)cc1I,University Hospital of Northern Norway,5.297178
+CCCOc1c(OC)cc(CC(C)N)cc1OC,University Hospital of Northern Norway,4.8715763
+CCC1CN2CCC3(O)C(=Nc4cccc(OC)c43)C2CC1C(=COC)C(=O)OC,University Hospital of Northern Norway,5.3446627
+CC(C)(C)C(NC(=O)c1cn(CC2CCCCC2)c2ccccc12)C(N)=O,University Hospital of Northern Norway,11.190384
+CCC(NC)C(=O)c1ccc2c(c1)OCO2,University Hospital of Northern Norway,3.5203028
+CC(O)CCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,University Hospital of Northern Norway,10.685103
+CCCCCn1cc(C(=O)Cc2ccccc2OC)c2ccccc21,University Hospital of Northern Norway,12.004996
+CCCCCn1cc(C(=O)c2ccc(OC)cc2)c2ccccc21,University Hospital of Northern Norway,11.889222
+CN(C)C1CCCCC1N(C)C(=O)Cc1ccc(Cl)cc1Cl,University Hospital of Northern Norway,7.2828503
+O=C(C1CC1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,University Hospital of Northern Norway,6.9740133
+CCCc1cc(OC)c(CCN)cc1OC,University of Athens,7.038164
+COc1cc(CCN)c(OC)cc1Br,University of Athens,5.638097
+COc1cc(CCN)c(OC)cc1Cl,University of Athens,5.446018
+CCCSc1cc(OC)c(CCN)cc1OC,University of Athens,7.00758
+CC(C)(C)C(NC(=O)c1nn(CCCCCF)c2ccccc12)C(N)=O,University of Athens,9.896861
+CC(C)(C)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(N)=O,University of Athens,9.824013
+O=C(NC12CC3CC(CC(C3)C1)C2)c1nn(CCCCCF)c2ccccc12,University of Athens,12.37172
+CN1CCCCC1Cn1cc(C(=O)c2ccccc2I)c2ccccc21,University of Athens,7.860866
+CC(N)Cc1ccc2ccoc2c1,University of Athens,4.721424
+CCCCCn1cc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21,University of Athens,12.770565
+CCNC(C)Cc1ccccc1,University of Athens,4.3962717
+CNC(C)C(=O)c1ccc(Br)cc1,University of Athens,4.9000373
+CN(C)CCc1c[nH]c2ccc(O)cc12,University of Athens,2.4618878
+CCN(CC)CCc1c[nH]c2ccccc12,University of Athens,4.7090635
+CNC(C)C(=O)c1ccc(C)c(C)c1,University of Athens,5.182527
+CN(C)CCc1c[nH]c2ccccc12,University of Athens,3.978698
+CC(N)C(O)c1ccccc1,University of Athens,2.7494917
+CNC(C)C(O)c1ccccc1,University of Athens,3.3497925
+O=C(Oc1cccc2ccccc12)c1cn(Cc2ccc(F)cc2)c2ccccc12,University of Athens,12.219369
+COc1ccc2c(c1)[nH]c1c(C)nccc12,University of Athens,7.397938
+CCCCCn1cc(C(=O)c2cccc3ccccc23)c2ccc(O)cc21,University of Athens,11.530353
+O=C(O)CCCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,University of Athens,10.444874
+CCCCn1cc(C(=O)c2cccc3ccccc23)c2ccc(O)cc21,University of Athens,11.1946745
+O=C(O)CCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,University of Athens,10.195403
+CCCCCn1cc(C(=O)c2ccc(OC)c3ccccc23)c2ccccc21,University of Athens,12.317998
+CCCCCn1cc(C(=O)Cc2ccc(OC)cc2)c2ccccc21,University of Athens,11.750019
+CCCCCn1cc(C(=O)c2cccc3ccccc23)cc1-c1ccccc1F,University of Athens,12.909603
+CCCCCn1cc(C(=O)c2ccc(Br)c3ccccc23)c2ccccc21,University of Athens,13.013392
+COC1=CC(=O)OC(C=Cc2ccccc2)C1,University of Athens,8.973499
+Cc1ccc(C(=O)c2cn(CCCCCF)c3ccccc23)c2ccccc12,University of Athens,11.87504
+CN1CCN(Cc2ccccc2)CC1,University of Athens,2.8731918
+CCC(C(=O)c1ccc2c(c1)OCO2)N1CCCC1,University of Athens,5.0572453
+CCNC(C)C(=O)c1ccc(C)cc1,University of Athens,4.820632
+CCCCCn1cc(C(=O)N2CCN(C)CC2)c2ccccc21,University of Athens,8.89332
+COC(=O)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(C)C,University of Athens,10.584662
+COc1ccc2[nH]cc(CCN(C(C)C)C(C)C)c2c1,University of Athens,5.581636
+CNC(C)Cc1ccccc1F,University of Athens,4.3062267
+CNC(C)Cc1cccc(F)c1,University of Athens,4.204111
+CNC(C)C(=O)c1ccccc1,University of Athens,3.51924
+CNC(C)C(=O)c1ccc(F)cc1,University of Athens,3.8827755
+COC(=O)C(c1ccccc1)C1CCCCN1,University of Athens,5.2464814
+O=C(Oc1cccc2cccnc12)c1cn(CCCCCF)c2ccccc12,University of Athens,11.117089
+CCCC(C(=O)c1ccccc1)N1CCCC1,University of Athens,5.4760885
+NC(=O)C(Cc1ccccc1)NC(=O)c1cn(CCCCCF)c2ccccc12,University of Athens,9.523759
+CCCC(NC)C(=O)c1ccccc1,University of Athens,5.020521
+CCCCCn1cc(C(=O)c2ccc(OC)cc2)c2ccccc21,University of Athens,11.675775
+COc1ccc(C(=O)c2cn(CCCCC(=O)O)c3ccccc23)cc1,University of Athens,9.535576
+COc1ccc(C(=O)c2cn(CCCCCO)c3ccccc23)cc1,University of Athens,10.0377655
+Cc1c(C(=O)NN2CCCCC2)nn(-c2ccc(Cl)cc2Cl)c1-c1ccc(Cl)cc1,University of Athens,12.409568
+CCCCCn1nc(C(=O)Oc2cccc3ccccc23)c2ccccc21,University of Athens,12.45935
+CCCCCn1cc(C(=O)NCc2ccccc2)c2ccccc21,University of Athens,11.192161
+CCC1CN2CCc3c([nH]c4cccc(OC)c34)C2CC1C(=COC)C(=O)OC,University of Athens,7.412799
+CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,University of Athens,7.640357
+O=C(c1cccc2ccccc12)c1nn(CCCCCF)c2ccccc12,University of Athens,11.841651
+C=C(C)C(C)(C)CC(=O)c1cn(CCCCC)c2ccccc12,University of Athens,12.212386
+CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,University of Athens,5.6107697
+CCC(NC)C(=O)c1ccc(C)cc1,University of Athens,5.2205343
+CCOC(=O)C(c1ccccc1)C1CCCCN1,Victorian Institute of Forensic Medicine,2.8647046
+CCCC(C(=O)c1ccc2c(c1)OCO2)N1CCCC1,Victorian Institute of Forensic Medicine,3.0913877
+CCCCCC(C(=O)c1ccc2c(c1)OCO2)N1CCCC1,Victorian Institute of Forensic Medicine,3.78904
+CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1C,Victorian Institute of Forensic Medicine,3.6745248
+CCNC(C)C(=O)c1cccc(Cl)c1,Victorian Institute of Forensic Medicine,2.4735389
+CCNC(C)C(=O)c1ccc(Cl)cc1,Victorian Institute of Forensic Medicine,2.6363883
+CNC(C)C(=O)c1ccc(Cl)cc1,Victorian Institute of Forensic Medicine,2.3437333
+CC(N)Cc1ccc2occc2c1,Victorian Institute of Forensic Medicine,1.9787898
+CC(C)(NC(=O)c1cn(CCCCCF)c2ccccc12)c1ccccc1,Victorian Institute of Forensic Medicine,4.9200277
+O=C(Oc1cccc2cccnc12)c1cn(CCCCCF)c2ccccc12,Victorian Institute of Forensic Medicine,4.879694
+CC(N)Cc1ccc2ccoc2c1,Victorian Institute of Forensic Medicine,1.9514942
+CC(C)C(NC(=O)c1nn(CC2CCCCC2)c2ccccc12)C(N)=O,Victorian Institute of Forensic Medicine,4.7484756
+CC(C)(C)C(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(N)=O,Victorian Institute of Forensic Medicine,4.5096207
+CN1CCCCC1Cn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Victorian Institute of Forensic Medicine,3.4181228
+CC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Victorian Institute of Forensic Medicine,2.9792204
+CN(C)Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,Victorian Institute of Forensic Medicine,3.2708488
+O=C(Oc1cccc2cccnc12)c1cn(CC2CCCCC2)c2ccccc12,Victorian Institute of Forensic Medicine,5.2405024
+CN(C)CCc1c[nH]c2ccc(O)cc12,Victorian Institute of Forensic Medicine,-0.075184315
+CCCCCCC(C)(C)c1ccc(C2CCCC(O)C2)c(O)c1,Victorian Institute of Forensic Medicine,5.640066
+CN1CCC23c4c5ccc(O)c4OC2CCCC3C1C5,Victorian Institute of Forensic Medicine,1.2207003
+CCc1cc2c(s1)-n1c(C)nnc1CN=C2c1ccccc1Cl,Victorian Institute of Forensic Medicine,3.9979773
+CNC(C)C(=O)c1ccc(F)cc1,Victorian Institute of Forensic Medicine,1.384325
+O=C(c1ccco1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Victorian Institute of Forensic Medicine,3.514018
+CC(C)C(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Victorian Institute of Forensic Medicine,3.8299124
+CCCCCCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Victorian Institute of Forensic Medicine,5.5780926
+CCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Victorian Institute of Forensic Medicine,5.106854
+CCCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21,Victorian Institute of Forensic Medicine,5.214933
+O=C(c1cccc2ccccc12)c1cn(CCN2CCOCC2)c2ccccc12,Victorian Institute of Forensic Medicine,3.9902754
+CCCCCn1cc(C(=O)c2cccc3ccccc23)cc1-c1ccccc1F,Victorian Institute of Forensic Medicine,5.588896
+CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(CCc2ccccc2)CC1C,Victorian Institute of Forensic Medicine,3.4976034
+CN1C(=O)C(O)N=C(c2ccccc2Cl)c2cc(Cl)ccc21,Victorian Institute of Forensic Medicine,4.2669234
+CCNC(C)Cc1ccc2c(c1)OCO2,Victorian Institute of Forensic Medicine,2.1138377
+CCCC(NCC)C(=O)c1ccc2c(c1)OCO2,Victorian Institute of Forensic Medicine,2.7787528
+C=CCN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5,Victorian Institute of Forensic Medicine,0.50416523
+CCC(=O)N(c1ccccc1)C1CCNCC1,Victorian Institute of Forensic Medicine,2.2121553
+CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,Victorian Institute of Forensic Medicine,0.7576609
+CCC(=O)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1,Victorian Institute of Forensic Medicine,3.487502
+CC(C=C(c1cccs1)c1cccs1)N1CCCCC1,Victorian Institute of Forensic Medicine,3.9912326
+CCCC(C(=O)c1ccc(C)cc1)N1CCCC1,Victorian Institute of Forensic Medicine,3.2418137
+FC(F)(F)c1cccc(N2CCNCC2)c1,Victorian Institute of Forensic Medicine,2.9619098
+O=C(C1CCCO1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,Victorian Institute of Forensic Medicine,3.0745692
+CN(C)C1CCCCC1N(C)C(=O)c1ccc(Cl)c(Cl)c1,Victorian Institute of Forensic Medicine,3.4687085
+CN(C)C1CCCCC1N(C)C(=O)Cc1ccc(Cl)cc1Cl,Victorian Institute of Forensic Medicine,3.774898
+CN(C(=O)Cc1ccc(Cl)c(Cl)c1)C1CCCCC1N1CCCC1,Victorian Institute of Forensic Medicine,4.0575604
+CN(C)C1CCCCC1N(C)C(=O)Cc1ccc(Cl)c(Cl)c1,Victorian Institute of Forensic Medicine,3.815408
+Cc1ccc(Nc2nc3ccc(C)cc3c(=O)o2)cc1,Victorian Institute of Forensic Medicine,4.2862606
+CCC(C(=O)c1ccccc1)N1CCCC1,Victorian Institute of Forensic Medicine,2.0664434
+CCC(=O)N(c1ccccc1)C1CCN(CC(O)c2cccs2)CC1,Victorian Institute of Forensic Medicine,2.8933988
+O=C1Nc2ccc(Br)cc2C(c2ccccc2F)=NC1O,Zurich Institute of Forensic Medicine,7.4657307
+CCCC(C(=O)c1ccccc1)N1CCCC1,Zurich Institute of Forensic Medicine,5.017755
+Cc1nnc2n1-c1sc(Br)cc1C(c1ccccc1Cl)=NC2,Zurich Institute of Forensic Medicine,8.596746
+CCC(NC)C(=O)c1ccccc1,Zurich Institute of Forensic Medicine,3.7308462
+Cc1nnc2n1-c1ccc([N+](=O)[O-])cc1C(c1ccccc1Cl)=NC2,Zurich Institute of Forensic Medicine,7.746303
+Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2,Zurich Institute of Forensic Medicine,8.16568
+Cc1nnc2n1-c1ccc([N+](=O)[O-])cc1C(c1ccccc1F)=NC2,Zurich Institute of Forensic Medicine,7.194272
+COC(=O)C(c1ccc(F)cc1)C1CCCCN1,Zurich Institute of Forensic Medicine,5.0370846
+CN1CCN(C=C2N=C3CN=C(c4ccccc4Cl)c4cc([N+](=O)[O-])ccc4N3C2=O)CC1,Zurich Institute of Forensic Medicine,8.791387
+COC(=O)C(NC(=O)c1cn(CCCCCF)c2ccccc12)C(C)C,Zurich Institute of Forensic Medicine,10.140158
+CNC(C)C(=O)c1ccc2c(c1)OCO2,Zurich Institute of Forensic Medicine,3.151742
+CCCCCn1cc(C(=O)Oc2cccc3cccnc23)c2ccccc21,Zurich Institute of Forensic Medicine,11.359298
